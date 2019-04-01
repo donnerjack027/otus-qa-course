@@ -48,7 +48,7 @@ def function_addition_str():
 @pytest.fixture()
 def math_message():
     """
-    teardown для тестов математики
+    teardown для тестов математики с числами
     """
     yield
     print("\nsimple math test - finished")
