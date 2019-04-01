@@ -1,0 +1,4 @@
+Requerments:
+    python
+    pytest
+    
